@@ -1,4 +1,4 @@
-# Smart Calculator by Arman
+# Smart Calculator
 
 This is a web-based smart calculator built as part of the Oasis Infobyte Web Development Internship (Task 1).
 
